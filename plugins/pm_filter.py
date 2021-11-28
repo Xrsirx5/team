@@ -473,7 +473,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('tgraph', callback_data='tgraph'),
             InlineKeyboardButton('zombies', callback_data='zombies'),
-            InlineKeyboardButton('zombies', callback_data='zombies')
+            InlineKeyboardButton('song', callback_data='song')
             ],[
             InlineKeyboardButton('« Back', callback_data='start'),
         ]]
