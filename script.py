@@ -81,6 +81,17 @@ Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 
 • /disconnect  - disconnect from a chat.
 • /connections - list all your connections."""
 
+    SONG_TXT ="""<b>SONG MODULE</b>
+Song Download
+Song Download Module, For Those Who Love Music
+
+🎈 Command
+
+- /song [Song Name] - To Download Music
+
+Usage
+- working pm and groups"""
+
     AUTO_MANUAL_TXT = """Help: <b>Filters</b>
 
 <b>Select a filters type Below:</b>"""
